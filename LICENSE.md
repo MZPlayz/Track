@@ -1,4 +1,4 @@
-# Track Money Tracker Web App License Agreement
+# Track PWA License Agreement
 
 **IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE TRACK MONEY TRACKER WEB APP.**
 
